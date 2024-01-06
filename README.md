@@ -12,4 +12,4 @@ If you are trying these yourself, I cannot guarantee the output. Still cool to s
 ## Graphics or Art
 
 - [Bing Image Creator using DALL-E 3](bing-image-creator.md)
-  
+- [Microsoft Designer Prompts and Templates](microsoft-designer.md)
